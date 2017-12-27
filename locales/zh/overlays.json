@@ -14,8 +14,8 @@
 
         {"value": "window-center", "pos": "br", "format": "窗位: {v0}"},
         {"value": "window-width", "pos": "br", "format": "窗宽: {v0}"},
-        {"value": "zoom", "pos": "br", "format": "Z: {v0}"},
-        {"value": "offset", "pos": "br", "format": "Off: {v0},{v1}"},
+        {"value": "zoom", "pos": "br", "format": "缩放: {v0}"},
+        {"value": "offset", "pos": "br", "format": "偏移: {v0},{v1}"},
         {"value": "position", "pos": "br", "format": "位置: {v0},{v1},{v2}"},
         {"value": "frame", "pos": "br", "format": "频谱: {v0}"},
         {"value": "value", "pos": "br", "format": "值: {v0}"}
@@ -29,8 +29,8 @@
 
         {"value": "window-center", "pos": "br", "format": "窗位: {v0}"},
         {"value": "window-width", "pos": "br", "format": "窗宽: {v0}"},
-        {"value": "zoom", "pos": "br", "format": "Z: {v0}"},
-        {"value": "offset", "pos": "br", "format": "Off: {v0},{v1}"},
+        {"value": "zoom", "pos": "br", "format": "缩放: {v0}"},
+        {"value": "offset", "pos": "br", "format": "偏移: {v0},{v1}"},
         {"value": "position", "pos": "br", "format": "位置: {v0},{v1},{v2}"},
         {"value": "frame", "pos": "br", "format": "频谱: {v0}"},
         {"value": "value", "pos": "br", "format": "值: {v0}"}
@@ -53,8 +53,8 @@
 
         {"value": "window-center", "pos": "br", "format": "窗位: {v0}"},
         {"value": "window-width", "pos": "br", "format": "窗宽: {v0}"},
-        {"value": "zoom", "pos": "br", "format": "Z: {v0}"},
-        {"value": "offset", "pos": "br", "format": "Off: {v0},{v1}"},
+        {"value": "zoom", "pos": "br", "format": "缩放: {v0}"},
+        {"value": "offset", "pos": "br", "format": "偏移: {v0},{v1}"},
         {"value": "position", "pos": "br", "format": "位置: {v0},{v1},{v2}"},
         {"value": "frame", "pos": "br", "format": "频谱: {v0}"},
         {"value": "value", "pos": "br", "format": "值: {v0}"}

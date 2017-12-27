@@ -15,8 +15,8 @@ dwv.gui.base.Undo = function (app)
     this.setup = function ()
     {
         var paragraph = document.createElement("p");
-        paragraph.appendChild(document.createTextNode("History:"));
-        paragraph.appendChild(document.createElement("br"));
+        // paragraph.appendChild(document.createTextNode("History:"));
+        // paragraph.appendChild(document.createElement("br"));
 
         var select = document.createElement("select");
         select.className = "history_list";
