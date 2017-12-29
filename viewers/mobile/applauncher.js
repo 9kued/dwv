@@ -46,7 +46,7 @@ function startApp() {
         "containerDivId": "dwv",
         "fitToWindow": true,
         "gui": ["tool", "load", "help", "undo", "version", "tags", "drawList"],
-        "loaders": ["File", "Url", "GoogleDrive", "Dropbox"],
+        "loaders": ["File", "Url"],
         "tools": ["Scroll", "WindowLevel", "ZoomAndPan", "Draw", "Livewire", "Filter", "Floodfill"],
         "filters": ["Threshold", "Sharpen", "Sobel"],
         "shapes": ["Arrow", "Ruler", "Protractor", "Rectangle", "Roi", "Ellipse", "FreeHand"],
